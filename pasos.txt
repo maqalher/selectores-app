@@ -1,0 +1,13 @@
+Crear moudlo de paises con ruta
+  ng g m paises --routing
+
+Crear componente selectorPages
+  ng g c paises/pages/selectorPages --skip-Tests -is
+
+
+Crear servicio
+  ng g s paises/services/paises --skip-Tests
+
+
+Crear carpeta interfaces
+  paises.interface.ts
